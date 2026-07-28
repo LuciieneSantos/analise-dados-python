@@ -89,9 +89,13 @@ pip install -r requirements.txt
 
 Execute o arquivo Python ou abra o notebook para acompanhar as análises.
 
-👩‍💻 Autora
+## 📚 Créditos
 
-Luciene Santos
+Projeto desenvolvido durante o curso Usando chats inteligentes para análise de dados e machine learning (ocean).
+
+Adaptações e organização do repositório realizadas por:
+
+**Luciene Santos**
 
 GitHub:
 https://github.com/LuciieneSantos
